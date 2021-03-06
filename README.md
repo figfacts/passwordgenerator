@@ -13,7 +13,7 @@ To view my repository, check out [My repository](https://github.com/figfacts/pas
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
-![The Password Generator application displays a red button to "Generate Password".](./Assets/passwordgenerator-demo.png)
+![The Password Generator application displays a red button to "Generate Password".](./assets/passwordgenerator-demo.png)
 
 
 ## Credits
